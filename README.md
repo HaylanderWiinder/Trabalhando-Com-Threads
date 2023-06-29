@@ -1,2 +1,2 @@
 # Trabalhando-Com-Thread
-- projeto academiico Threads
+- projeto academico Threads
